@@ -1,0 +1,25 @@
+@charset "utf-8";
+ 
+p {
+  color: #79215b;
+  text-indent: 16px;
+}
+h1 {
+    color: #ff0000;
+  }
+   
+  h2 {
+    color: #00a000;
+  }
+
+ 
+.positive {
+  color: blue;
+}
+ 
+.negative {
+  color: brown;
+}
+.keyword {
+    background-color:chartreuse;
+  }
