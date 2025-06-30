@@ -1,25 +1,15 @@
 @charset "utf-8";
- 
-p {
-  color: #79215b;
-  text-indent: 16px;
-}
-h1 {
-    color: #ff0000;
-  }
    
   h2 {
-    color: #00a000;
+    color: #8484ff;
   }
 
- 
-.positive {
-  color: blue;
+  
+  h4 {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: #ffb6c1;
+  font-family: "Zen Maru Gothic", sans-serif; 
+  letter-spacing: 1px;
+  font-weight: 500;
 }
- 
-.negative {
-  color: brown;
-}
-.keyword {
-    background-color:chartreuse;
-  }
